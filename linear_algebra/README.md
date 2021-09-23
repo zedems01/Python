@@ -2,7 +2,7 @@
 
 This module contains classes and functions for doing linear algebra.
 
----
+----
 
 ## Overview
 
